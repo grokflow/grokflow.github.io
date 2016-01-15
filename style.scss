@@ -344,6 +344,10 @@ tbody tr:nth-child(odd) th {
     font-size: .75rem;
     text-transform: uppercase;
   }
+  &-updated-date {
+    margin-top: 2rem;
+    font-size: 0.75rem;
+  }
 }
 
 .list {
